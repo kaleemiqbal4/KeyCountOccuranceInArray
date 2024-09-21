@@ -1,0 +1,41 @@
+# Visual Studio temporary files
+.vs/
+*.vs/
+*.user
+*.suo
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+
+# User-specific files
+*.userprefs
+*.sln.docstates
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Azure Web App publish folder
+publish/
+
+# Other files
+*.log
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.cache
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
